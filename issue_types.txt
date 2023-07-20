@@ -1,0 +1,3 @@
+Hardware: Keyboard, Mouse, Monitor
+Software: Operating System, Application, Driver
+Networking: Internet Connection, Router, Firewall
